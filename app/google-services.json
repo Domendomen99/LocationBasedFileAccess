@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "634330378536",
+    "project_id": "gpsfile-30f3e",
+    "storage_bucket": "gpsfile-30f3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634330378536:android:9a802cef6becd8a6d3601d",
+        "android_client_info": {
+          "package_name": "it.unibas.posizioneAttuale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634330378536-m4c3nfek8i0p8sfb8198vrjina6luft7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrzFcjlBdbY33HTAveQ2f6GWsLYyE14HQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634330378536-m4c3nfek8i0p8sfb8198vrjina6luft7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

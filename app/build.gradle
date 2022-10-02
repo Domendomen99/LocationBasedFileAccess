@@ -1,0 +1,58 @@
+apply plugin: 'com.android.application'
+apply plugin: 'com.google.gms.google-services'
+
+android {
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    compileSdkVersion 31
+    buildToolsVersion "29.0.3"
+    defaultConfig {
+        applicationId 'it.unibas.posizioneAttuale'
+        minSdkVersion 19
+        targetSdkVersion 31
+        versionCode 1
+        versionName "1.0"
+        multiDexEnabled true
+
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    productFlavors {
+    }
+    testOptions {
+        unitTests.returnDefaultValues = true
+    }
+}
+
+
+
+dependencies {
+    // Declare the dependency for the Cloud Firestore library
+    // When using the BoM, you don't specify versions in Firebase library dependencies
+    implementation 'com.google.firebase:firebase-firestore'
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'androidx.appcompat:appcompat:1.0.0'
+    implementation 'com.google.android.material:material:1.0.0'
+    implementation 'com.google.code.gson:gson:2.2.4'
+    implementation 'com.google.firebase:firebase-functions:20.1.1'
+    implementation 'com.google.firebase:firebase-database:20.0.6'
+    implementation 'com.google.firebase:firebase-storage:20.0.2'
+    implementation 'com.google.android.gms:play-services-location:20.0.0'
+    implementation 'com.google.android.libraries.places:places:2.4.0'
+    testImplementation 'junit:junit:3.8.2'
+    implementation 'com.google.maps.android:android-maps-utils:0.4.+'
+    implementation 'com.google.android.gms:play-services-maps:18.1.0'
+    implementation platform('com.google.firebase:firebase-bom:30.4.1')
+    implementation 'com.android.support:multidex:1.0.3'
+    implementation 'com.google.android.gms:play-services-maps:18.1.0'
+
+}
