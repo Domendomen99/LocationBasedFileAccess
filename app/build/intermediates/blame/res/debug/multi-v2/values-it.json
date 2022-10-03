@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\domen\\Desktop\\Programmi Sviluppati Es\\Progetto\\OfficialReleaseDaMostrareFireBase\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-it\\values-it.xml",
+            "outputFile": "C:\\Users\\domen\\Desktop\\Programmi Sviluppati Es\\Progetto\\2_REPOSITORY\\LocationBasedFileAccess\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-it\\values-it.xml",
             "map": [
                 {
                     "source": "C:\\Users\\domen\\.gradle\\caches\\transforms-2\\files-2.1\\fed8325d9ad7a5b378a4ea1d2e843d62\\jetified-places-2.4.0\\res\\values-it\\values.xml",

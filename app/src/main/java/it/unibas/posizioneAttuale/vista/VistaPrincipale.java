@@ -117,7 +117,7 @@ public class VistaPrincipale extends Fragment implements OnMapReadyCallback {
         //assegnazione componenti
         this.mapView = vista.findViewById(R.id.map);
         this.bottoneMostraActivityFileDisponibili = vista.findViewById(R.id.bottoneMostraActivityFileDisponibili);
-        bottoneMostraActivityFileDisponibili.setEnabled(false);
+        this.bottoneMostraActivityFileDisponibili.setEnabled(false);
         this.bottoneMostraActivityFileDisponibili.setOnClickListener(Applicazione.getInstance().getControlloVistaPrincipale().getAzioneAccediAFileDisponibili());
         this.labelPosizione = vista.findViewById(R.id.labelPosizione);
         Log.d(TAG, "-- app Tutti i componenti assegnati ");

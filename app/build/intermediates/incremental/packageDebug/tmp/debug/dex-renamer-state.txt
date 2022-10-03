@@ -1,9 +1,9 @@
-#Sun Oct 02 21:29:08 CEST 2022
-base.2=C\:\\Users\\domen\\Desktop\\Programmi Sviluppati Es\\Progetto\\OfficialReleaseDaMostrareFireBase\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes2.dex
+#Mon Oct 03 11:06:33 CEST 2022
+base.2=C\:\\Users\\domen\\Desktop\\Programmi Sviluppati Es\\Progetto\\2_REPOSITORY\\LocationBasedFileAccess\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes2.dex
 path.2=classes2.dex
-base.1=C\:\\Users\\domen\\Desktop\\Programmi Sviluppati Es\\Progetto\\OfficialReleaseDaMostrareFireBase\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
+base.1=C\:\\Users\\domen\\Desktop\\Programmi Sviluppati Es\\Progetto\\2_REPOSITORY\\LocationBasedFileAccess\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
 path.1=classes.dex
-base.0=C\:\\Users\\domen\\Desktop\\Programmi Sviluppati Es\\Progetto\\OfficialReleaseDaMostrareFireBase\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+base.0=C\:\\Users\\domen\\Desktop\\Programmi Sviluppati Es\\Progetto\\2_REPOSITORY\\LocationBasedFileAccess\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex

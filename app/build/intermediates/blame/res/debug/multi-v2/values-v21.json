@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\domen\\Desktop\\Programmi Sviluppati Es\\Progetto\\OfficialReleaseDaMostrareFireBase\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "outputFile": "C:\\Users\\domen\\Desktop\\Programmi Sviluppati Es\\Progetto\\2_REPOSITORY\\LocationBasedFileAccess\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
             "map": [
                 {
                     "source": "C:\\Users\\domen\\.gradle\\caches\\transforms-2\\files-2.1\\d3b85a8b76686f81511a93936166261f\\material-1.0.0\\res\\values-v21\\values-v21.xml",
@@ -23,6 +23,25 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\domen\\Desktop\\Programmi Sviluppati Es\\Progetto\\2_REPOSITORY\\LocationBasedFileAccess\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "from": {
+                        "startLines": "3,13,18",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "59,581,768",
+                        "endLines": "10,15,21",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "545,721,1008"
+                    },
+                    "to": {
+                        "startLines": "6,233,274",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "354,17397,19889",
+                        "endLines": "13,235,277",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "833,17535,20126"
+                    }
+                },
+                {
                     "source": "C:\\Users\\domen\\.gradle\\caches\\transforms-2\\files-2.1\\574b29af48301f49f68a9ec2e7c6b7de\\appcompat-1.0.0\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,19,20,21,22,24,26,27,28,29,30,32,34,36,38,40,42,43,48,50,52,53,54,56,58,59,60,61,62,63,107,110,154,157,160,162,164,166,169,171,174,175,176,179,180,181,182,183,184,187,188,190,192,194,196,200,202,203,204,205,207,211,213,215,216,217,218,219,221,222,223,233,234,235,247",
@@ -39,25 +58,6 @@
                         "endLines": "14,15,16,17,18,19,20,21,22,23,24,25,26,28,30,31,32,33,35,37,38,39,40,41,43,45,47,49,51,53,54,59,61,63,64,65,67,69,70,71,72,73,74,118,121,165,168,171,173,175,177,180,182,185,186,187,190,191,192,193,194,195,198,199,201,203,205,207,211,213,214,215,216,218,222,224,226,227,228,229,230,232,236,237,247,248,249,261,273",
                         "endColumns": "90,102,102,104,106,108,108,108,108,108,106,102,118,12,12,104,120,100,12,12,102,118,106,102,12,12,12,12,12,12,118,12,12,12,111,146,12,12,74,88,86,100,102,12,12,12,12,12,12,12,12,12,12,12,88,110,12,100,94,122,128,116,12,98,12,12,12,12,12,12,92,110,55,12,12,12,12,94,90,90,116,12,70,82,12,56,57,12,12",
                         "endOffsets": "924,1027,1130,1235,1342,1451,1560,1669,1778,1887,1994,2097,2216,2371,2526,2631,2752,2853,3000,3141,3244,3363,3470,3573,3728,3899,4048,4213,4370,4521,4640,5012,5161,5310,5422,5569,5722,5869,5944,6033,6120,6221,6324,9392,9577,12657,12854,13053,13176,13299,13412,13595,13726,13927,14016,14127,14360,14461,14556,14679,14808,14925,15102,15201,15336,15479,15614,15733,15934,16053,16146,16257,16313,16420,16615,16726,16859,16954,17045,17136,17253,17392,17606,17689,18369,18426,18484,19178,19884"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\domen\\Desktop\\Programmi Sviluppati Es\\Progetto\\OfficialReleaseDaMostrareFireBase\\app\\src\\main\\res\\values-v21\\styles.xml",
-                    "from": {
-                        "startLines": "3,13,18",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "59,581,768",
-                        "endLines": "10,15,21",
-                        "endColumns": "12,12,12",
-                        "endOffsets": "545,721,1008"
-                    },
-                    "to": {
-                        "startLines": "6,233,274",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "354,17397,19889",
-                        "endLines": "13,235,277",
-                        "endColumns": "12,12,12",
-                        "endOffsets": "833,17535,20126"
                     }
                 },
                 {
