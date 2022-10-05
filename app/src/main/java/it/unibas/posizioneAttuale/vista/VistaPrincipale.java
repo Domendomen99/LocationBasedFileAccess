@@ -28,8 +28,11 @@ import com.google.android.gms.maps.CameraUpdateFactory;
 import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.MapView;
 import com.google.android.gms.maps.OnMapReadyCallback;
+import com.google.android.gms.maps.model.BitmapDescriptor;
+import com.google.android.gms.maps.model.BitmapDescriptorFactory;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.Marker;
+import com.google.android.gms.maps.model.MarkerOptions;
 import com.google.android.gms.maps.model.PolygonOptions;
 import com.google.android.libraries.places.api.Places;
 import com.google.firebase.database.FirebaseDatabase;
@@ -154,7 +157,7 @@ public class VistaPrincipale extends Fragment implements OnMapReadyCallback {
                 latLng = new LatLng(location.getLatitude(), location.getLongitude());
 
                 // -- movimento camera
-                gMap.animateCamera(CameraUpdateFactory.newLatLngZoom(latLng, 18));
+                gMap.animateCamera(CameraUpdateFactory.newLatLngZoom(latLng, 17));
                 doveMiTrovo(location, listaPoligoni);
             }
         };
@@ -178,10 +181,22 @@ public class VistaPrincipale extends Fragment implements OnMapReadyCallback {
         }
         // -- puntatore luogo iniziale : rimosso, rimane solo movimento telecamera su centro Potenza
         LatLng luogoIniziale = new LatLng(40.6404, 15.8056);
+        aggiungiMarker(gMap);
+
         gMap.moveCamera(CameraUpdateFactory.newLatLng(luogoIniziale));
         // -- disegna mappa
         disegnaMappa(gMap, listaPoligoni);
         Log.d(TAG, " -app mappa disegnata");
+    }
+
+    private void aggiungiMarker(GoogleMap gMap) {
+        gMap.addMarker(new MarkerOptions().position(new LatLng(40.645073,15.807315)).title("DiMIE").icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_RED)));
+        gMap.addMarker(new MarkerOptions().position(new LatLng(40.645743,15.808411)).title("S.I.").icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_RED)));
+        gMap.addMarker(new MarkerOptions().position(new LatLng(40.646318,15.808569)).title("Bar").icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_GREEN)));
+        gMap.addMarker(new MarkerOptions().position(new LatLng(40.647047,15.808309)).title("S.A.F.E.").icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_RED)));
+        gMap.addMarker(new MarkerOptions().position(new LatLng(40.647889,15.811445)).title("Mensa").icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_GREEN)));
+        gMap.addMarker(new MarkerOptions().position(new LatLng(40.647751,15.810866)).title("Biblioteca").icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_ORANGE)));
+        gMap.addMarker(new MarkerOptions().position(new LatLng(40.646567,15.809182)).title("Segreteria").icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_ORANGE)));
     }
 
     private void controlloPermessi() {
@@ -232,11 +247,11 @@ public class VistaPrincipale extends Fragment implements OnMapReadyCallback {
         for (Poligono poligono : listaPoligoni) {
             if (PolyUtil.containsLocation(new LatLng(location.getLatitude(), location.getLongitude()), poligono.getListaPunti(), false)) {
                 //activityPrincipale.mostraMessaggio("Sono nell'aula : " + poligono.getNomeAula());
-                labelPosizione.setText("Sono nell'aula : " + poligono.getNomeAula());
+                labelPosizione.setText("Sono nell'area : " + poligono.getNomeAula());
                 activityPrincipale = (ActivityPrincipale) Applicazione.getInstance().getCurrentActivity();
                 activityPrincipale.findViewById(R.id.bottoneMostraActivityFileDisponibili).setEnabled(true);
                 Applicazione.getInstance().getModello().putBean(Costanti.AULA_ATTUALE, poligono.getNomeAula());
-                Log.d(TAG, "-- aula attuale salvata in memoria");
+                Log.d(TAG, "-- area attuale salvata in memoria");
                 return;
             }
         }

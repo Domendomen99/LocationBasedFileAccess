@@ -24,7 +24,7 @@ public class ActivityMostraFileDisponibili extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_mostra_file_disponibili);
         String aula = (String) Applicazione.getInstance().getModello().getBean(Costanti.AULA_ATTUALE);
-        mostraMessaggio("Ti trovi nell'aula : " + aula);
+        mostraMessaggio("Ti trovi nell'area : " + aula);
 
         // -- blocca orientamento schermo in verticale
         this.setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
