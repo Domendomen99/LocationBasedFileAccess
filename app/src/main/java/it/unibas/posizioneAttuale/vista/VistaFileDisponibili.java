@@ -73,7 +73,7 @@ public class VistaFileDisponibili extends Fragment {
                 @Override
                 public void onSuccess(ListResult listResult) {
                     for (StorageReference storageReference : listResult.getItems()) {
-                        listaNomiFile.add(storageReference.getName());
+                            listaNomiFile.add(storageReference.getName());
                         Log.d(TAG,"-- trovato file : " + storageReference.getName());
                         storageReference.getDownloadUrl().addOnSuccessListener(new OnSuccessListener<Uri>() {
                             @Override

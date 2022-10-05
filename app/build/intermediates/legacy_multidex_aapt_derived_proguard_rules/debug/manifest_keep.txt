@@ -1,4 +1,4 @@
-# Referenced at C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:34
+# Referenced at C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:34
 -keep class androidx.core.app.CoreComponentFactory { <init>(); }
-# Referenced at C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:34
+# Referenced at C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:34
 -keep class it.unibas.posizioneAttuale.Applicazione { <init>(); }

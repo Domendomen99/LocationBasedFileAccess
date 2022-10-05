@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:2:1-34:12
-INJECTED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:2:1-34:12
-INJECTED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:2:1-34:12
-INJECTED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:2:1-34:12
+ADDED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:2:1-34:12
 MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\domen\.gradle\caches\transforms-2\files-2.1\c9f28beb8d337195862541ba70ee4865\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-firestore:24.3.0] C:\Users\domen\.gradle\caches\transforms-2\files-2.1\4168ee128df3fb4126ea0e34cffdc665\jetified-firebase-firestore-24.3.0\AndroidManifest.xml:2:1-26:12
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\domen\.gradle\caches\transforms-2\files-2.1\d3b85a8b76686f81511a93936166261f\material-1.0.0\AndroidManifest.xml:17:1-24:12
@@ -69,39 +69,39 @@ MERGED from [com.google.firebase:firebase-encoders-json:16.1.0] C:\Users\domen\.
 MERGED from [com.android.volley:volley:1.1.1] C:\Users\domen\.gradle\caches\transforms-2\files-2.1\d39b8e1e4e91f6e24ebf423364d56419\jetified-volley-1.1.1\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\domen\.gradle\caches\transforms-2\files-2.1\a84fdd9b6a0d945302fbdd6d6a2fc0e5\jetified-transport-api-2.2.0\AndroidManifest.xml:15:1-22:12
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\domen\.gradle\caches\transforms-2\files-2.1\d75c5838ad9d6fe945f0075ae9714a00\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:2:1-11:12
-INJECTED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:2:1-34:12
-INJECTED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:2:1-34:12
-INJECTED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:2:1-34:12
 	package
-		ADDED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:3:5-41
-		INJECTED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:2:1-34:12
-		INJECTED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:2:1-34:12
-		INJECTED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:5:5-78
+ADDED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:5:5-78
 MERGED from [com.google.android.libraries.places:places:2.4.0] C:\Users\domen\.gradle\caches\transforms-2\files-2.1\fed8325d9ad7a5b378a4ea1d2e843d62\jetified-places-2.4.0\AndroidManifest.xml:9:5-79
 MERGED from [com.google.android.libraries.places:places:2.4.0] C:\Users\domen\.gradle\caches\transforms-2\files-2.1\fed8325d9ad7a5b378a4ea1d2e843d62\jetified-places-2.4.0\AndroidManifest.xml:9:5-79
 	android:name
-		ADDED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:5:22-76
+		ADDED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:5:22-76
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:6:5-80
+ADDED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:6:5-80
 	android:name
-		ADDED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:6:22-78
+		ADDED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:6:22-78
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:7:5-79
+ADDED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:7:5-79
 	android:name
-		ADDED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:7:22-77
+		ADDED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:7:22-77
 application
-ADDED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:10:5-32:19
+ADDED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:10:5-32:19
 MERGED from [com.google.firebase:firebase-firestore:24.3.0] C:\Users\domen\.gradle\caches\transforms-2\files-2.1\4168ee128df3fb4126ea0e34cffdc665\jetified-firebase-firestore-24.3.0\AndroidManifest.xml:16:5-24:19
 MERGED from [com.google.firebase:firebase-firestore:24.3.0] C:\Users\domen\.gradle\caches\transforms-2\files-2.1\4168ee128df3fb4126ea0e34cffdc665\jetified-firebase-firestore-24.3.0\AndroidManifest.xml:16:5-24:19
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\domen\.gradle\caches\transforms-2\files-2.1\d3b85a8b76686f81511a93936166261f\material-1.0.0\AndroidManifest.xml:22:5-20
@@ -157,49 +157,49 @@ MERGED from [com.android.volley:volley:1.1.1] C:\Users\domen\.gradle\caches\tran
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.2.0] C:\Users\domen\.gradle\caches\transforms-2\files-2.1\6d56e7d6359e2e414012c2a2c442c5d7\core-1.2.0\AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:15:9-41
+		ADDED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:15:9-41
 	android:icon
-		ADDED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:14:9-43
+		ADDED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:14:9-43
 	android:allowBackup
-		ADDED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:12:9-35
 	android:theme
-		ADDED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:16:9-40
+		ADDED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:16:9-40
 	android:usesCleartextTraffic
-		ADDED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:13:9-44
+		ADDED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:13:9-44
 	android:name
-		ADDED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:11:9-63
+		ADDED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:11:9-63
 meta-data#com.google.android.geo.API_KEY
-ADDED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:17:9-20:15
+ADDED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:17:9-20:15
 	android:value
-		ADDED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:19:13-68
+		ADDED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:19:13-68
 	android:name
-		ADDED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:18:13-58
+		ADDED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:18:13-58
 activity#it.unibas.posizioneAttuale.activity.ActivityPrincipale
-ADDED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:21:9-29:20
+ADDED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:21:9-29:20
 	android:label
-		ADDED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:23:13-45
+		ADDED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:23:13-45
 	android:exported
-		ADDED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:24:13-36
+		ADDED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:24:13-36
 	android:name
-		ADDED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:22:13-82
+		ADDED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:22:13-82
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:25:13-28:29
+ADDED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:25:13-28:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:26:17-69
+ADDED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:26:17-69
 	android:name
-		ADDED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:26:25-66
+		ADDED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:26:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:27:17-77
+ADDED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:27:17-77
 	android:name
-		ADDED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:27:27-74
+		ADDED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:27:27-74
 activity#it.unibas.posizioneAttuale.activity.ActivityMostraFileDisponibili
-ADDED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:30:9-75
+ADDED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:30:9-75
 	android:name
-		ADDED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:30:19-73
+		ADDED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml:30:19-73
 uses-sdk
-INJECTED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml
 MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\domen\.gradle\caches\transforms-2\files-2.1\c9f28beb8d337195862541ba70ee4865\multidex-2.0.0\AndroidManifest.xml:20:5-43
 MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\domen\.gradle\caches\transforms-2\files-2.1\c9f28beb8d337195862541ba70ee4865\multidex-2.0.0\AndroidManifest.xml:20:5-43
 MERGED from [com.google.firebase:firebase-firestore:24.3.0] C:\Users\domen\.gradle\caches\transforms-2\files-2.1\4168ee128df3fb4126ea0e34cffdc665\jetified-firebase-firestore-24.3.0\AndroidManifest.xml:7:5-9:41
@@ -330,16 +330,16 @@ MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\dome
 MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\domen\.gradle\caches\transforms-2\files-2.1\a84fdd9b6a0d945302fbdd6d6a2fc0e5\jetified-transport-api-2.2.0\AndroidManifest.xml:18:5-20:41
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\domen\.gradle\caches\transforms-2\files-2.1\d75c5838ad9d6fe945f0075ae9714a00\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\domen\.gradle\caches\transforms-2\files-2.1\d75c5838ad9d6fe945f0075ae9714a00\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
-INJECTED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\domen\Desktop\Programmi Sviluppati Es\Progetto\2_REPOSITORY\LocationBasedFileAccess\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\domen\Desktop\TesiProgetto\LocationBasedFileAccess\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.firebase:firebase-firestore:24.3.0] C:\Users\domen\.gradle\caches\transforms-2\files-2.1\4168ee128df3fb4126ea0e34cffdc665\jetified-firebase-firestore-24.3.0\AndroidManifest.xml:13:5-79
 MERGED from [io.grpc:grpc-android:1.44.1] C:\Users\domen\.gradle\caches\transforms-2\files-2.1\10b744bef744bb50bf1eabc1665f2935\jetified-grpc-android-1.44.1\AndroidManifest.xml:9:5-79
